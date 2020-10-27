@@ -3,7 +3,7 @@ Es una colección de datos que son tratados como una unidad
 
 ##### Funcionalidades de un SGBD
 
-![Funcionalidades](/img/funcionalidades.png)
+![Funcionalidades](img/funcionalidades.png)
 
 ##### Pasos para la creación de una Base de Datos
 
@@ -82,12 +82,3 @@ Para ver el nombre de la Base de datos:
 > select name from v$database;
 
 
-
-
-
-
-
-
-
-
-> the present is our past.

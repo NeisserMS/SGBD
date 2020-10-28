@@ -327,7 +327,7 @@ En el PFILE existen alrededor de 310 parametros, en la version 10 eran algo de 2
 
 ##### Tipos de Parámetros
 
-![PFILE](/imagenes/tipos.png)
+![PFILE](imagenes/tipos.png)
 
 - Básicos: aquellos que encontramos en el pfile, ejem controlfile.
 

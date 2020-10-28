@@ -321,13 +321,13 @@ Para salir  de este estado:
 
 ##### Parámetros de Inicialización
 
-![PFile](imagenes/pfile.PNG)
+![PFile](imagenes/pfile.png)
 
 En el PFILE existen alrededor de 310 parametros, en la version 10 eran algo de 200 y picos, esto nos permite iniciar instancias pero para gente gestionada por el usuario, el usuario es el encargado de definir de que manera quiere estructurar la memoria y que procesos quiere que se inicie.
 
 ##### Tipos de Parámetros
 
-![PTipos](imagenes/tipos.PNG)
+![Tipos](imagenes/tipos.png)
 
 - Básicos: aquellos que encontramos en el pfile, ejem controlfile.
 
@@ -349,7 +349,7 @@ Otro de los alcances es BOTH que quiere decir que cuando indicamos el cambio en 
 
 ##### El SPFILE
 
-![SPFILE](/imagenes/spfile.png)
+![SPFILE](imagenes/spfile.png)
 
 Apagamos la base de datos y luego la iniciamos `STARTUP OPEN PFILE='larutadelpfile/INIT.ORA'`
 

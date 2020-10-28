@@ -321,7 +321,7 @@ Para salir  de este estado:
 
 ##### Parámetros de Inicialización
 
-![PFILE](/imagenes/pfile.png)
+![PFILE](imagenes/pfile.png)
 
 En el PFILE existen alrededor de 310 parametros, en la version 10 eran algo de 200 y picos, esto nos permite iniciar instancias pero para gente gestionada por el usuario, el usuario es el encargado de definir de que manera quiere estructurar la memoria y que procesos quiere que se inicie.
 

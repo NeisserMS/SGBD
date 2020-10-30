@@ -272,7 +272,7 @@ Para eliminar primero debe de estar abierto el datafile y también se considera 
 
 ![GitHub Logo](img/reubicar.png)
 
-- REUBICAR O RENIMBRAR UN DATAFUKE:
+- REUBICAR O RENOMBRAR UN DATAFILE:
 
 1.- Poner tablespace, que lo contiene en modo offline
 // para que no este disponible
@@ -288,6 +288,4 @@ Para eliminar primero debe de estar abierto el datafile y también se considera 
 - Redimensionar un datafile
 
 > ALTER DATABASE DATAFILE 'nombreDatafile' RESIZE tamNuevo;
-
-
 

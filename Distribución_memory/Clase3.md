@@ -372,7 +372,7 @@ Muy aparte:
 - STARTUP OPEN: pasa por inicio, montaje y lo abre.
 - Startup MODE: solo la inicia y lo monta, no lo abre.
 
-¿ y porq no lo abrimos? porq cuando lo abrimos ya los redos deben de tener la ubicacion como debe de ser, osea su ubicacion exacta, de lo contrario no lo abre. 
+¿Y por qué no lo abrimos? porque cuando lo abrimos ya los redos deben de tener la ubicacion como debe de ser, osea su ubicacion exacta, de lo contrario no lo abre. 
 Primero se debe de iniciar en una etapa anterior.
 
 

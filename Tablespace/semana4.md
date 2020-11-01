@@ -95,7 +95,7 @@ Cuando creemos el tablespace space lo adecuado es colocarlo con todo este códig
 
 ![GitHub Logo](img/t_temporal.png)
 
-Quiere decir que la informació que logremos almacenar va a durar lo que dura una transacción o cuando el usuario solo este conectado. Osea si se desconecta se elimina o si termina la transaccion se elimina tambien.
+Quiere decir que la información que logremos almacenar va a durar lo que dura una transacción o cuando el usuario solo este conectado. Osea si se desconecta se elimina o si termina la transaccion se elimina tambien.
 
 Se usan por el motivo de que porque necesito realizar operaciones de ordenación. Ya en realidad hay un espacio para realizar estas operaciones que esta definido por el parametro SORT_AREA_SIZE (alli indicamos cual es el tamaño de esta área que esta reservada para realizar esta operación). ¿Pero que sucede cuando se llena?
 Es necesario tener otra area en la cual podamos almacenar. 
@@ -230,7 +230,7 @@ Nos define el nuemro de datafiles q puede tener una bd
 
 ![GitHub Logo](img/ubicacion.png)
 
-¿Porque debemos de ubicarlos en diferentes lugares?
+¿Por qué debemos de ubicarlos en diferentes lugares?
 
 La estructuracion debe de hacerse de forma aecuada para optimizar y sobre todo el acceso general a la información.
 

@@ -77,7 +77,7 @@ Cuando nosotros creamos un usuario y no indicamos en que tablespace se va a guar
 
 > SELECT SEGMENT_NAME, EXTEND_ID, BYTES FROM DBA_EXTENTS;
 
-Podemos visualizar informacion de las extensiones y no olvides que es por numeros, entonces consultamos el nombre del segmento, el id (numero del segmentos) y los bytes.
+Podemos visualizar información de las extensiones y no olvides que es por números, entonces consultamos el nombre del segmento, el id (numero del segmentos) y los bytes.
 
 ### TAREAS DE GESTION DE TABLESPACE PERMANENTES:
 

@@ -18,7 +18,7 @@ Tenemos 5 tipos:
 
 ##### CARACTERÍSTICAS
 
-![Restricciones](img/caracteristicas.png)
+![Restricciones](img/caractetisticas.png)
 
 Solo podemos definirlo cuando lo creamos o al modificarlo.
 
@@ -185,7 +185,7 @@ Esto es cuando se carga los datos hay que verificarlos
 ##### RESTRICCIONES DIFERIDAS
 
 ![Restricciones](img/res_d.png)
-
+![Restricciones](img/diferidas.png)
 
 
 
